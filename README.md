@@ -78,10 +78,6 @@ Download: [Kaggle - Lending Club Dataset](https://www.kaggle.com/datasets/wordsf
 
 Built to bridge theoretical understanding with hands-on credit risk implementation. Demonstrates capability for junior-to-mid-level roles requiring statistical rigor and Basel III awareness.
 
-**Currently:** Pursuing FRM Part I (May 2026) | Open to credit risk modeling opportunities
-
 ---
-
-**Contact:** [LinkedIn](https://www.linkedin.com/in/phanas-nakhonsri) | [@PhanasN](https://github.com/PhanasN)
 
 ⭐ Star this repo if it helps your learning journey!
